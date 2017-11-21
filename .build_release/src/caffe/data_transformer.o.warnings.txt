@@ -1,0 +1,4 @@
+src/caffe/data_transformer.cpp:2:10: fatal error: 'opencv2/core/core.hpp' file not found
+#include <opencv2/core/core.hpp>
+         ^~~~~~~~~~~~~~~~~~~~~~~
+1 error generated.

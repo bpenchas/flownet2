@@ -1,0 +1,4 @@
+src/caffe/data_reader.cpp:1:10: fatal error: 'boost/thread.hpp' file not found
+#include <boost/thread.hpp>
+         ^~~~~~~~~~~~~~~~~~
+1 error generated.

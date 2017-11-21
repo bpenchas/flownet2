@@ -1,0 +1,6 @@
+In file included from src/caffe/blob.cpp:4:
+In file included from ./include/caffe/blob.hpp:8:
+./include/caffe/common.hpp:4:10: fatal error: 'boost/shared_ptr.hpp' file not found
+#include <boost/shared_ptr.hpp>
+         ^~~~~~~~~~~~~~~~~~~~~~
+1 error generated.
