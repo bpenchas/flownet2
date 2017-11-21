@@ -1,4 +1,5 @@
 python/caffe/_caffe.so
 *.pyc
 car-data
+.DS_Store
 
